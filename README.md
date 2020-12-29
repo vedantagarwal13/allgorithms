@@ -1,2 +1,2 @@
-# allgorithms
-allgorithms for is touching and bounceoff
+# p5.play-boilerplate
+Boiler plate for p5.play
